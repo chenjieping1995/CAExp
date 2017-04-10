@@ -4,6 +4,7 @@ README
 ****
 
 
-####CCacheSim.java  
+CCacheSim.java
+----------
 完成了所有要求的基本功能。  
 附加功能完成了预取、写不命中的调块策略以及优化了UI界面。  
